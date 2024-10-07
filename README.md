@@ -1,6 +1,7 @@
 # ChatGPT Web Extension for Visual Studio Code
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*GLrOK-D8sPXvvHAGNakYow.jpeg" alt="ChatGPT Logo" width="100%" height="200px" />
 
-![ChatGPT Logo](https://miro.medium.com/v2/resize:fit:1200/1*GLrOK-D8sPXvvHAGNakYow.jpeg) <!-- Replace with actual logo URL -->
+
 
 ## Introduction
 
